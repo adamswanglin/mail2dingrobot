@@ -1,0 +1,18 @@
+
+*.exe
+*.test
+*.prof
+
+# Self
+bin/
+packages/
+release/
+test/
+vendor/
+dist/
+.idea/
+.vscode/
+
+# Cache
+*.swp
+**/.DS_Store
